@@ -12,7 +12,6 @@ In order to run this bot, you'll need to have the following installed:
 features soon to be added (hopefully)
 
     Dynamic account management - The bot currently uses a fixed set of accounts specified in the code. It would be beneficial to have a way to dynamically add/remove accounts from the bot.
-    More advanced actions - The bot currently only logs the verification code if a kicked event is detected. It would be possible to add more advanced actions for the bot to perform, such as building structures or interacting with other players.
     Better error handling - The bot does not have any error handling for various failure scenarios (such as server downtime). It would be beneficial to add error handling to handle these scenarios gracefully.
     
     
