@@ -1,6 +1,6 @@
 ## AutoHypixelAppeal
 
-a simple hypixel appeal bot to unban your banned accounts.
+a simple hypixel appeal bot to get verification code in order to link hypixel forum account.
 
 ## Requirements
 
